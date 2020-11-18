@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/lineage_mako.mk
+	$(LOCAL_DIR)/aosp_mako.mk
