@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_mako.mk
+    $(LOCAL_DIR)/aosp_mako.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_mako-user \
-    lineage_mako-userdebug \
-    lineage_mako-eng
+    aosp_mako-user \
+    aosp_mako-userdebug \
+    aosp_mako-eng
